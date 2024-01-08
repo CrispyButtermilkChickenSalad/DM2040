@@ -3,7 +3,7 @@ The folder denoted as 'left' includes all the 3D printed parts to make the motor
 ### Printing Orientation
 ![](https://github.com/CrispyButtermilkChickenSalad/DM2040/blob/e41edf03bc3954e4327b2e79b0b80d23e8b0d404/Gallery/printing%20orientation.png)
 
-*'left' is on the left, 2x belt clips in the middle, and 'right' is on the right*
+*'left' is on the left, 2x belt clips and limit switch mount in the middle, and 'right' is on the right*
 
 ### Printing Parameters
 - Recommended Material: ABS, PETG (if not in an enclosure) and etc. (Absolutely no PLA)
