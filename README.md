@@ -8,6 +8,10 @@ A dual motor upgrade to motion systems based on 2040 extrusions and MGN12 linear
 View the CAD linked below:
 - [DM2040](https://a360.co/3S7zaaC)
 
+## Printing
+All the parts needed to be 3D printed are listed under the 'OBJs' directory. A README file is included in there detailing printing parameters. Alternatively similar printing information can be found in the wiki; liked below:
+- [Printing Parameters](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Printing-Parameters)
+
 ## Features
 A full feature set for this project can be found in the wiki, alternatively it is linked below:
 - [DM2040 Features](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Features)
