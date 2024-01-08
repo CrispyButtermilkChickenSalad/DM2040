@@ -9,7 +9,7 @@ View the CAD linked below:
 - [DM2040](https://a360.co/3S7zaaC)
 
 ## Printing
-All the parts needed to be 3D printed are listed under the 'OBJs' directory. A README file is included in there detailing printing parameters. Alternatively similar printing information can be found in the wiki; liked below:
+All the parts needed to be 3D printed are listed under the 'OBJs' directory. A README file is included in there detailing printing parameters. Alternatively similar printing information can be found in the wiki which is linked below:
 - [Printing Parameters](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Printing-Parameters)
 
 ## Features
