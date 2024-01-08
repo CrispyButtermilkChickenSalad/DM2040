@@ -12,13 +12,17 @@ View the CAD linked below:
 All the parts needed to be 3D printed are listed under the 'OBJs' directory. A README file is included in there detailing printing parameters. Alternatively similar printing information can be found in the wiki which is linked below:
 - [Printing Parameters](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Printing-Parameters)
 
-## Features
-A full feature set for this project can be found in the wiki, alternatively it is linked below:
-- [DM2040 Features](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Features)
+## Assembly
+Refer to the CAD or assembly guide. If those resources are not sufficient, feel free to open an issue or contact me directly. The assembly guide can be found in the wiki, alternatively it is linked below:
+- [Assembly Guide](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Assembly-Guide)
 
 ## BOM
 The BOM for the DM2040 can be found in the wiki, alternatively it is linked below:
 - [DM2040 BOM](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/BOM)
+
+## Features
+A full feature set for this project can be found in the wiki, alternatively it is linked below:
+- [DM2040 Features](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Features)
 
 ## Note
 All links provided in the wiki are affiliate links, meaning I will get a small kickback from your purchase if you purchase from the links at no additional cost to you. If you are uncomfortable with this, feel free to source your own parts, nothing held against you.
