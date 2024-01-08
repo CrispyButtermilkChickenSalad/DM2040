@@ -8,12 +8,16 @@ A dual motor upgrade to motion systems based on 2040 extrusions and MGN12 linear
 View the CAD linked below:
 - [DM2040](https://a360.co/3S7zaaC)
 
-# BOM
+## Features
+A full feature set for this project can be found in the wiki, alternatively it is linked below:
+- [DM2040 Features](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Features)
+
+## BOM
 The BOM for the DM2040 can be found in the wiki, alternatively it is linked below:
 - [DM2040 BOM](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/BOM)
 
-# Note
-All links provided in this repository are affiliate links, meaning I will get a small kickback from your purchase if you purchase from the links at no additional cost to you. If you are uncomfortable with this, feel free to source your own parts, nothing held against you.
+## Note
+All links provided in the wiki are affiliate links, meaning I will get a small kickback from your purchase if you purchase from the links at no additional cost to you. If you are uncomfortable with this, feel free to source your own parts, nothing held against you.
 
 Optionally you can donate if you like what I've created:
 - https://ko-fi.com/buttermilkcrispychickensalad
