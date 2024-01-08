@@ -1,5 +1,5 @@
 # DM2040
-A dual motor upgrade to motion systems based on 2040 extrusions and MGN12 linear rails. Intended for the TronXY X1, but is compatible with all CNC axis based on a 2040 aluminium extrusion. It features 6mm GT2 belt, inline belt tensioners and is scalable for your own projects.
+A dual motor upgrade to motion systems based on 2040 extrusions and MGN12 linear rails. It was intended solely for the TronXY X1, but it is compatible with all CNC axis based on a 2040 aluminium extrusion. It features 6mm GT2 belt, inline belt tensioners and is scalable for your own projects.
 
 *This project is the precursor to an even bigger project upcoming within the next few months*
 
