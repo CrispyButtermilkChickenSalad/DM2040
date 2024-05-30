@@ -25,7 +25,7 @@ A full feature set for this project can be found in the wiki, alternatively it i
 - [DM2040 Features](https://github.com/CrispyButtermilkChickenSalad/DM2040/wiki/Features)
 
 ## Note
-All links provided in the wiki are affiliate links, meaning I will get a small kickback from your purchase if you purchase from the links at no additional cost to you. If you are uncomfortable with this, feel free to source your own parts, nothing held against you.
+All links provided in the wiki are affiliate links, meaning I will get a small kickback from your purchase if you purchase from the links at no additional cost to you.
 
 Optionally you can donate if you like what I've created:
 
